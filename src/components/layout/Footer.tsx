@@ -6,7 +6,7 @@ export const Footer = () => {
       <div className="max-w-7xl mx-auto px-4 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-white text-lg font-semibold mb-4">Modern Shop</h3>
+            <h3 className="text-white text-lg font-semibold mb-4">N.b Store</h3>
             <p className="text-sm">
               Your one-stop destination for premium products and exceptional shopping experience.
             </p>
